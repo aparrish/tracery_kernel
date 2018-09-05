@@ -1,6 +1,6 @@
 # Tracery Kernel
 
-By [Allison Parrish]
+By [Allison Parrish](http://www.decontextualize.com/)
 
 This is a very bare-bones custom Jupyter kernel for evaluating Tracery
 grammars. (I made it because I wanted to write a few Tracery tutorials using my
